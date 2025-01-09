@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img height="150px" src="https://github-readme-stats.vercel.app/api?username=PCJasonHuang&show_icons=true&theme=radical&include_all_commits=true">&nbsp;&nbsp;
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=PCJasonHuang&include_all_commits=true">&nbsp;&nbsp;
 
 
 <!--
