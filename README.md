@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=PCJasonHuang&show_icons=true&theme=radical">&nbsp;&nbsp;
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PCJasonHuang&theme=vue-dark&line_height=22&layout=compact&hide=less" />&nbsp;&nbsp;
 
 
 <!--
